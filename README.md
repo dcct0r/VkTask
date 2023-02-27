@@ -14,7 +14,7 @@ anahogically
 + By clicking on the messages, open the system application for SMS
 + Clicking on the participants takes you to the screen with a list of contacts.
 + By clicking on the upper right icon, the tiles of the participants are swapped
-The bottom row of buttons is aligned so that the distance between them is
++ The bottom row of buttons is aligned so that the distance between them is
 the same
 + Standard margins at the edges - 16dp
 + There are no strict requirements for matching icons, you can take any similar ones.
