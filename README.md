@@ -1,5 +1,5 @@
 # The minimum version of the Android API is 23 (6.0)
-### :exclamation: Also, in order for the background to be displayed, you must have API is 31 (12.0) :exclamation:
+## :exclamation: Also, in order for the background to be displayed, you must have API is 31 (12.0) :exclamation: 
 
 ![Task](https://user-images.githubusercontent.com/111187206/221679948-eabe44f0-dbbf-4248-85bb-dba59add5a57.jpg)
 
