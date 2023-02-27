@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.vktask.app-mergeDebugResources-30:/layout/grid_items.xml",
+        "source": "com.example.vktask.app-main-33:/layout/grid_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-mergeDebugResources-30:\\layout\\grid_items.xml",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\grid_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-mergeDebugResources-30:\\layout\\contacts_users.xml",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\contacts_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-mergeDebugResources-30:\\layout\\user_list.xml",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\user_list.xml"
+    }
+]

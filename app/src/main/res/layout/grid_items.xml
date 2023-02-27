@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/layoutMargin">
+
+
+    <ImageView
+        android:id="@+id/gridBackground"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:scaleType="fitXY"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/grid_image_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/grid_text_layout">
+
+        <ImageView
+            android:id="@+id/gridImageIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minWidth="@dimen/minIconSize"
+            android:minHeight="@dimen/minIconSize"
+            android:scaleType="fitCenter"
+
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/gridUserName"
+            app:layout_constraintBottom_toBottomOf="parent"/>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/grid_text_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <TextView
+            android:id="@+id/gridUserName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/best_white"
+            android:textSize="16sp"
+            android:fontFamily="@font/roboto"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:gravity="center"
+            app:drawableRightCompat="@drawable/round_mic_off_white_24"
+            />
+    </FrameLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

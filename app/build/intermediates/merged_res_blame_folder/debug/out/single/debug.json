@@ -1,0 +1,238 @@
+[
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxxhdpi_main_icon_back.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxxhdpi\\main_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxxhdpi_main_icon_back_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxxhdpi\\main_icon_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_grey_border_radius.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\grey_border_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-mdpi_main_icon.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-mdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-hdpi_main_icon_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-hdpi\\main_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user6.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_mic_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\mic_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\layout_contacts_users.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\contacts_users.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xhdpi_main_icon_back.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xhdpi\\main_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-anydpi-v26_main_icon.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-anydpi-v26\\main_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxxhdpi_main_icon_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxxhdpi\\main_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_videocam_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\videocam_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user1.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_call_end_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\call_end_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_round_minimize_48.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\round_minimize_48.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxhdpi_main_icon_back_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxhdpi\\main_icon_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_add_in_group_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\add_in_group_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user7.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_main_icon_foreground.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\main_icon_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_round_home_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\round_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-anydpi-v26_main_icon_round.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-anydpi-v26\\main_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user4.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\layout_grid_items.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\grid_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-hdpi_main_icon_back.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-hdpi\\main_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_round_expand_more_36.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\round_expand_more_36.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-mdpi_main_icon_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-mdpi\\main_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-hdpi_main_icon_back_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-hdpi\\main_icon_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_people_list_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\people_list_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxhdpi_main_icon_back.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxhdpi\\main_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_chat_bubble_outline_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\chat_bubble_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user3.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-mdpi_main_icon_back_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-mdpi\\main_icon_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xhdpi_main_icon_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xhdpi\\main_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-mdpi_main_icon_back.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-mdpi\\main_icon_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_videocam_off_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\videocam_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user8.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_white_border_radius.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\white_border_radius.xml"
+    },
+    {
+        "merged": "com.example.vktask.app-merged_res-31:/layout_grid_items.xml.flat",
+        "source": "com.example.vktask.app-main-33:/layout/grid_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_round_mic_off_white_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\round_mic_off_white_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_right_icon_brick_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\right_icon_brick_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xhdpi_main_icon_back_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xhdpi\\main_icon_back_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\font_roboto.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\font\\roboto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxxhdpi_main_icon.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-anydpi-v26_main_icon_back_round.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-anydpi-v26\\main_icon_back_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-xxhdpi_main_icon_round.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxhdpi\\main_icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-hdpi_main_icon.png.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_red_border_radius.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\red_border_radius.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-anydpi-v26_main_icon_back.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-anydpi-v26\\main_icon_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user5.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_main_icon_background.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\main_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_hand_hello_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\hand_hello_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\layout_user_list.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\layout\\user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user2.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_mic_off_24.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\mic_off_24.xml"
+    }
+]

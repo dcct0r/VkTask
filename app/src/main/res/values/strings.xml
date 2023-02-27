@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VkTask</string>
+    <string name="button_to_say_hello">buttonToSayHello</string>
+    <string name="optional_upper_panel">optionalUpperPanel</string>
+    <string name="button_to_open_sms">buttonToOpenSMS</string>
+    <string name="button_to_swap_bricks">buttonToSwapBricks</string>
+    <string name="button_to_see_people_list">buttonToSeePeopleList</string>
+    <string name="optional_panel">optionalPanel</string>
+    <string name="button_to_turn_off_cam">buttonToTurnOffCam</string>
+    <string name="button_to_finish_up_app">buttonToFinishUpApp</string>
+    <string name="button_to_turn_off_mic">buttonToTurnOffMic</string>
+    <string name="invite_to_the_conference">Invite to the conference</string>
+    <string name="friends">Friends</string>
+    <string name="button_to_go_home">buttonToGoHome</string>
+    <string name="button_to_invite_in_the_conference">buttonToInviteInTheConference</string>
+</resources>
