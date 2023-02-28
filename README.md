@@ -1,7 +1,9 @@
 # The minimum version of the Android API is 23 (6.0)
 ## :exclamation: For the background, you need to have Android API is 31 (12.0) :exclamation: 
 
-![Task](https://user-images.githubusercontent.com/111187206/221830081-e97e3e0a-3245-4102-8359-00f0b9bc4a9f.jpg)
+Vertical orientation       |  Horizontal orientation
+:-------------------------:|:-------------------------:
+![Task](https://user-images.githubusercontent.com/111187206/221830081-e97e3e0a-3245-4102-8359-00f0b9bc4a9f.jpg)   |  ![AlsoTask](https://user-images.githubusercontent.com/111187206/221833406-d3496a7a-5b98-4704-b4c9-eec5002cc8ad.jpg)
 
 ### :iphone: Lower part of the screen
 + By clicking on the button with the camera icon, the icon is replaced with a camera /
