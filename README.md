@@ -16,5 +16,3 @@ crossed-out camera
 + The bottom row of buttons is aligned so that the distance between them is
 the same
 + Standard margins at the edges - 16dp
-+ There are no strict requirements for matching icons, you can take any similar ones.
-The only requirement is to use only vector icons.
