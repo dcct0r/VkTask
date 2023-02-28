@@ -57,6 +57,7 @@
             android:textColor="@color/best_white"
             android:textSize="16sp"
             android:fontFamily="@font/roboto"
+            android:layout_margin="@dimen/eightDpMargin"
             android:ellipsize="end"
             android:maxLines="1"
             android:gravity="center"

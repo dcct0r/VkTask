@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-xxxhdpi\\main_icon_back_round.png"
     },
     {
-        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_grey_border_radius.xml.flat",
-        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\grey_border_radius.xml"
-    },
-    {
         "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-mdpi_main_icon.png.flat",
         "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-mdpi\\main_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_grey_border_radius.xml.flat",
+        "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\grey_border_radius.xml"
     },
     {
         "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\mipmap-hdpi_main_icon_round.png.flat",
@@ -92,10 +92,6 @@
         "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\mipmap-anydpi-v26\\main_icon_round.xml"
     },
     {
-        "merged": "com.example.vktask.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.vktask.app-main-33:/layout/activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_ic_user4.xml.flat",
         "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\ic_user4.xml"
     },
@@ -166,6 +162,10 @@
     {
         "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_white_border_radius.xml.flat",
         "source": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-main-33:\\drawable\\white_border_radius.xml"
+    },
+    {
+        "merged": "com.example.vktask.app-merged_res-31:/layout_grid_items.xml.flat",
+        "source": "com.example.vktask.app-main-33:/layout/grid_items.xml"
     },
     {
         "merged": "C:\\Users\\Roman\\.gradle\\daemon\\7.5\\com.example.vktask.app-merged_res-31:\\drawable_round_mic_off_white_24.xml.flat",
