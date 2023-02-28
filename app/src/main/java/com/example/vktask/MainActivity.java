@@ -20,7 +20,7 @@ import java.util.List;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, init {
 
     private ImageButton videoCamera, microphone, rightIcon
-            ,peopleGroup, mes, expandMore;
+            ,peopleGroup, mes, expandMore, bottomPanel;
     private boolean flag = true;
     private GridView gridView;
     private GridAdapter gridAdapter;
@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         videoCamera = findViewById(R.id.cam_off);
         mes = findViewById(R.id.sms);
         peopleGroup = findViewById(R.id.group_of_people);
+        bottomPanel = findViewById(R.id.bottomTick);
 
         gridView.setAdapter(gridAdapter);
     }
@@ -86,6 +87,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mes.setVisibility(View.GONE);
             rightIcon.setVisibility(View.GONE);
             expandMore.setVisibility(View.GONE);
+            bottomPanel.setVisibility(View.GONE);
 
             ConstraintLayout.LayoutParams params = new ConstraintLayout.LayoutParams(0, 0);
 
@@ -95,8 +97,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             params.bottomToTop = R.id.bottomTick;
             params.startToStart = R.id.bigMom;
             params.endToEnd = R.id.bigMom;
-            params.leftMargin = sizeInDP;
-            params.rightMargin = sizeInDP;
+            params.setMargins(sizeInDP, sizeInDP, sizeInDP, sizeInDP);
             gridView.setNumColumns(GridView.AUTO_FIT);
             gridView.setHorizontalSpacing(sizeInDP);
             userGridWrapper.setLayoutParams(params);
@@ -120,6 +121,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             mes.setVisibility(View.VISIBLE);
             rightIcon.setVisibility(View.VISIBLE);
             expandMore.setVisibility(View.VISIBLE);
+            bottomPanel.setVisibility(View.VISIBLE);
         }
     }
 
