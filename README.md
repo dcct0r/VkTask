@@ -3,7 +3,7 @@
 
 Vertical orientation       |  Horizontal orientation
 :-------------------------:|:-------------------------:
-![Task](https://user-images.githubusercontent.com/111187206/221862018-9695af28-af21-4ec1-bf58-6d1dcf69c7a8.jpg)   |  ![AlsoTask](https://user-images.githubusercontent.com/111187206/221862021-4a422746-e6c8-4b92-b82b-54f3dd240c13.jpg)
+![Task](https://user-images.githubusercontent.com/111187206/221863059-a3d40201-0915-4e09-b26a-ef3bf8c3c3f2.jpg)   |  ![AlsoTask](https://user-images.githubusercontent.com/111187206/221863061-6e47df33-7df3-4c20-b929-b099aac7ab34.jpg)
 ### :iphone: Lower part of the screen
 + By clicking on the button with the camera icon, the icon is replaced with a camera /
 crossed-out camera
