@@ -29,6 +29,7 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <dimen name="bottomButtonsMargin">16dp</dimen>
+    <dimen name="eightDpMargin">8dp</dimen>
     <dimen name="invisibleBackground">@null</dimen>
     <dimen name="layoutMargin">16dp</dimen>
     <dimen name="minIconSize">48dp</dimen>

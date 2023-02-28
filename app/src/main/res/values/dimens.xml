@@ -4,4 +4,5 @@
     <dimen name="minIconSize">48dp</dimen>
     <dimen name="bottomButtonsMargin">16dp</dimen>
     <dimen name="invisibleBackground">@null</dimen>
+    <dimen name="eightDpMargin">8dp</dimen>
 </resources>

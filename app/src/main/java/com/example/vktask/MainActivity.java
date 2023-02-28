@@ -3,6 +3,7 @@ package com.example.vktask;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.Bundle;
+import android.util.TypedValue;
 import android.view.View;
 import android.widget.GridView;
 import android.widget.ImageButton;
@@ -37,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             R.id.group_of_people
     };
     private final List<String> uName = Arrays.asList("You", "Test nickname to make sure we can cut off our string in case of long name", "Glen Campbell", "Sam Cooke");
-    private final Integer[] uIcons = new Integer[]{R.drawable.ic_user1, R.drawable.ic_user2, R.drawable.ic_user7, R.drawable.ic_user3};
+    private final Integer[] uIcons = new Integer[]{R.drawable.ic_user8, R.drawable.ic_user2, R.drawable.ic_user7, R.drawable.ic_user3};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -68,6 +69,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         gridView.setAdapter(gridAdapter);
     }
 
+    private int convertToDp(int num) {
+        int dpSize = (int) TypedValue.applyDimension(
+                TypedValue.COMPLEX_UNIT_DIP, num, getResources()
+                        .getDisplayMetrics());
+        return dpSize;
+    }
+
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
@@ -80,21 +88,31 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             expandMore.setVisibility(View.GONE);
 
             ConstraintLayout.LayoutParams params = new ConstraintLayout.LayoutParams(0, 0);
+
+            int sizeInDP = convertToDp(8);
+
             params.topToTop = R.id.bigMom;
             params.bottomToTop = R.id.bottomTick;
             params.startToStart = R.id.bigMom;
             params.endToEnd = R.id.bigMom;
+            params.leftMargin = sizeInDP;
+            params.rightMargin = sizeInDP;
             gridView.setNumColumns(GridView.AUTO_FIT);
-
+            gridView.setHorizontalSpacing(sizeInDP);
             userGridWrapper.setLayoutParams(params);
 
         } else {
+
             ConstraintLayout.LayoutParams params = new ConstraintLayout.LayoutParams(0, 0);
+
+            int sizeInDP = convertToDp(8);
 
             params.topToTop = R.id.upper_bottom_line;
             params.bottomToTop = R.id.aboveMinimizeLine;
             params.startToStart = R.id.bigMom;
             params.endToEnd = R.id.bigMom;
+            params.leftMargin = sizeInDP;
+            params.rightMargin = sizeInDP;
             gridView.setNumColumns(1);
             userGridWrapper.setLayoutParams(params);
 
