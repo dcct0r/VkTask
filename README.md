@@ -6,7 +6,7 @@
 ### :iphone: Lower part of the screen
 + By clicking on the button with the camera icon, the icon is replaced with a camera /
 crossed-out camera
-+ By clicking on the microphone button - anahogically
++ By clicking on the microphone button - analogically
 + By clicking on the icon with a hand, an AlertDialog opens with the text “hello”
 + By clicking on the red button, the application exits
 ### Top of the screen
